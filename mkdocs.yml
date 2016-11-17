@@ -1,0 +1,7 @@
+site_name: Python Madrid Learn Doc
+site_url: https://bameda.github.io/python-madrid-learn-doc/
+site_description: Recopilatorio del grupo python-madrid-learn de documentación, manuales y tutoriales.
+site_author: Python Madrid
+repo_url: https://github.com/bameda/python-madrid-learn-doc
+theme: mkdocs
+
