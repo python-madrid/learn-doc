@@ -1,0 +1,34 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Python Madrid Learn Doc\n\n\nRecopilatorio del grupo python-madrid-learn de documentaci\u00f3n, manuales y tutoriales.\n\n\nGeneral\n\n\nSobre python en general e iniciaci\u00f3n a python.\n\n\n\n\nTutorial example\n \n[EN]\n - Short description.\n\n\n\n\nCient\u00edfico\n\n\nSobre ciencia.\n\n\n\n\nEjemplo de manual\n \n[ES]\n - Breve descripci\u00f3n.\n\n\n\n\nScraping\n\n\nSAobre web scraping.\n\n\n\n\nTutorial example\n \n[EN]\n - Short description.\n\n\n\n\nWeb\n\n\nSobre desarrollo web.\n\n\n\n\nEjemplo de manual\n \n[ES]\n - Breve descripci\u00f3n.",
+            "title": "Home"
+        },
+        {
+            "location": "/#python-madrid-learn-doc",
+            "text": "Recopilatorio del grupo python-madrid-learn de documentaci\u00f3n, manuales y tutoriales.",
+            "title": "Python Madrid Learn Doc"
+        },
+        {
+            "location": "/#general",
+            "text": "Sobre python en general e iniciaci\u00f3n a python.   Tutorial example   [EN]  - Short description.",
+            "title": "General"
+        },
+        {
+            "location": "/#cientifico",
+            "text": "Sobre ciencia.   Ejemplo de manual   [ES]  - Breve descripci\u00f3n.",
+            "title": "Cient\u00edfico"
+        },
+        {
+            "location": "/#scraping",
+            "text": "SAobre web scraping.   Tutorial example   [EN]  - Short description.",
+            "title": "Scraping"
+        },
+        {
+            "location": "/#web",
+            "text": "Sobre desarrollo web.   Ejemplo de manual   [ES]  - Breve descripci\u00f3n.",
+            "title": "Web"
+        }
+    ]
+}
