@@ -18,9 +18,9 @@ _link:
 install:
 	pip install mkdocs
 
-server:
+dev-server:
 	$(MAKE) _link
-	mkdocs server
+	mkdocs serve
 
 deploy:
 	$(MAKE) _link
