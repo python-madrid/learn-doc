@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Python Madrid Learn Doc\n\n\nRecopilatorio del grupo python-madrid-learn de documentaci\u00f3n, manuales y tutoriales.\n\n\nGeneral\n\n\nSobre python en general e iniciaci\u00f3n a python.\n\n\n\n\nTutorial example\n \n[EN]\n - Short description.\n\n\n\n\nCient\u00edfico\n\n\nSobre ciencia.\n\n\n\n\nEjemplo de manual\n \n[ES]\n - Breve descripci\u00f3n.\n\n\n\n\nScraping\n\n\nSAobre web scraping.\n\n\n\n\nTutorial example\n \n[EN]\n - Short description.\n\n\n\n\nWeb\n\n\nSobre desarrollo web.\n\n\n\n\nEjemplo de manual\n \n[ES]\n - Breve descripci\u00f3n.",
+            "text": "Python Madrid Learn Doc\n\n\nRecopilatorio del grupo python-madrid-learn de documentaci\u00f3n, manuales y tutoriales.\n\n\nGeneral\n\n\nSobre python en general e iniciaci\u00f3n a python.\n\n\n\n\nCodeAcademy Python\n [EN]\n\n\n\n\n\n\nIniciaci\u00f3n a python mediante ejercicios interactivos.\n\n\nPython 3.x\n [ES]\n\n\n\n\n\n\nCurso de Jes\u00fas Conde en castellano sibre python 3.x.\n\n\nCodeCombat\n [EN]\n\n\n\n\n\n\nJuego online para aprender a programar en python y en muchos otros lenguajes.\n\n\n\"Quiero aprender python\" de AEP\n [ES]\n\n\n\n\n\n\nMultitud de recursos recolectados por la iniciativa ArgentinaEnPython para comenzar con python.\n\n\nAwesome python\n [EN]\n\n\nMultitud de recursos (bibliotecas, tutoriales,...) en python.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnal\u00edtica\n\n\nSobre an\u00e1lisi de datos.\n\n\n\n\nTutorial name\n [EN]\n\n\nWrite a short description.\n\n\n\n\nCacharreo\n\n\nCacharreo... cacharreo everywhere.\n\n\n\n\nTutorial name\n [EN]\n\n\nWrite a short description.\n\n\n\n\nCient\u00edfico\n\n\nSobre ciencia.\n\n\n\n\nTutorial name\n [EN]\n\n\nWrite a short description.\n\n\n\n\nScraping\n\n\nSAobre web scraping.\n\n\n\n\nTutorial name\n [EN]\n\n\nWrite a short description.\n\n\n\n\nSeguridad\n\n\nSobre ciberseguridad y otras yerbas.\n\n\n\n\nTutorial name\n [EN]\n\n\nWrite a short description.\n\n\n\n\nWeb\n\n\nSobre desarrollo web.\n\n\nDocumentaci\u00f3n\n\n\n\n\nDjango Girls\n [EN]\n\n\n\n\n\n\nTutorial de iniciaci\u00f3n muy completo de DjangoGirls.\n\n\nDjango Girls - AEP\n [ES]\n\n\n\n\n\n\nTutorial de DjangoGirls en espa\u00f1ol de Argentina en Python.\n\n\nDjango Book\n [EN]\n\n\n\n\n\n\nLibro tutorial ligerito de Django para profundizar en las diferentes features.\n\n\nTutorial Django 1.10 Oficial\n [EN]\n\n\n\n\n\n\nTutorial oficial de Django muy, muy extenso, ideal para desarrolladores web.\n\n\nDjango 1.10 - Create a URL Shortening Service\n [EN]\n\n\nCurso (de pago) en el que crear\u00e1s un servici\u00f3n de URL Shortening con Django 1.10.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBibliotecas\n\n\nAPI\n\n\n\n\ndjango-restframework\n\n\nBiblioteca de referencia para el desarrollo de APIs en Django.\n\n\n\n\nAuth & SocialAuth\n\n\n\n\ndjango-allauth\n\n\n\n\n\n\nBiblioteca para la autenticaci\u00f3n de usuarios a trav\u00e9s de m\u00faltiples redes sociales.\n\n\npython-social-auth\n\n\nBiblioteca de authenticaci\u00f3n mediante multitud de redes sociales para Django y otros frameworks.\n\n\n\n\n\n\n\n\nInternacionalizaci\u00f3n\n\n\n\n\ndjango-roseta\n\n\nA\u00f1ade un panel de administraci\u00f3n a tu app para gestionar tus traducciones.",
             "title": "Home"
         },
         {
@@ -12,23 +12,63 @@
         },
         {
             "location": "/#general",
-            "text": "Sobre python en general e iniciaci\u00f3n a python.   Tutorial example   [EN]  - Short description.",
+            "text": "Sobre python en general e iniciaci\u00f3n a python.   CodeAcademy Python  [EN]    Iniciaci\u00f3n a python mediante ejercicios interactivos.  Python 3.x  [ES]    Curso de Jes\u00fas Conde en castellano sibre python 3.x.  CodeCombat  [EN]    Juego online para aprender a programar en python y en muchos otros lenguajes.  \"Quiero aprender python\" de AEP  [ES]    Multitud de recursos recolectados por la iniciativa ArgentinaEnPython para comenzar con python.  Awesome python  [EN]  Multitud de recursos (bibliotecas, tutoriales,...) en python.",
             "title": "General"
         },
         {
+            "location": "/#analitica",
+            "text": "Sobre an\u00e1lisi de datos.   Tutorial name  [EN]  Write a short description.",
+            "title": "Anal\u00edtica"
+        },
+        {
+            "location": "/#cacharreo",
+            "text": "Cacharreo... cacharreo everywhere.   Tutorial name  [EN]  Write a short description.",
+            "title": "Cacharreo"
+        },
+        {
             "location": "/#cientifico",
-            "text": "Sobre ciencia.   Ejemplo de manual   [ES]  - Breve descripci\u00f3n.",
+            "text": "Sobre ciencia.   Tutorial name  [EN]  Write a short description.",
             "title": "Cient\u00edfico"
         },
         {
             "location": "/#scraping",
-            "text": "SAobre web scraping.   Tutorial example   [EN]  - Short description.",
+            "text": "SAobre web scraping.   Tutorial name  [EN]  Write a short description.",
             "title": "Scraping"
         },
         {
+            "location": "/#seguridad",
+            "text": "Sobre ciberseguridad y otras yerbas.   Tutorial name  [EN]  Write a short description.",
+            "title": "Seguridad"
+        },
+        {
             "location": "/#web",
-            "text": "Sobre desarrollo web.   Ejemplo de manual   [ES]  - Breve descripci\u00f3n.",
+            "text": "Sobre desarrollo web.",
             "title": "Web"
+        },
+        {
+            "location": "/#documentacion",
+            "text": "Django Girls  [EN]    Tutorial de iniciaci\u00f3n muy completo de DjangoGirls.  Django Girls - AEP  [ES]    Tutorial de DjangoGirls en espa\u00f1ol de Argentina en Python.  Django Book  [EN]    Libro tutorial ligerito de Django para profundizar en las diferentes features.  Tutorial Django 1.10 Oficial  [EN]    Tutorial oficial de Django muy, muy extenso, ideal para desarrolladores web.  Django 1.10 - Create a URL Shortening Service  [EN]  Curso (de pago) en el que crear\u00e1s un servici\u00f3n de URL Shortening con Django 1.10.",
+            "title": "Documentaci\u00f3n"
+        },
+        {
+            "location": "/#bibliotecas",
+            "text": "",
+            "title": "Bibliotecas"
+        },
+        {
+            "location": "/#api",
+            "text": "django-restframework  Biblioteca de referencia para el desarrollo de APIs en Django.",
+            "title": "API"
+        },
+        {
+            "location": "/#auth-socialauth",
+            "text": "django-allauth    Biblioteca para la autenticaci\u00f3n de usuarios a trav\u00e9s de m\u00faltiples redes sociales.  python-social-auth  Biblioteca de authenticaci\u00f3n mediante multitud de redes sociales para Django y otros frameworks.",
+            "title": "Auth &amp; SocialAuth"
+        },
+        {
+            "location": "/#internacionalizacion",
+            "text": "django-roseta  A\u00f1ade un panel de administraci\u00f3n a tu app para gestionar tus traducciones.",
+            "title": "Internacionalizaci\u00f3n"
         }
     ]
 }
