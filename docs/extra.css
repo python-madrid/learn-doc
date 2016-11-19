@@ -1,0 +1,17 @@
+/* Paragraph */
+
+p {
+    padding-left: 2rem;
+}
+
+/* Definition list */
+dl{
+    padding-left: 4rem;
+}
+dt {
+    font-weight: bold;
+}
+dd {
+    background:none no-repeat left top;
+    padding-left: 50px;
+}
