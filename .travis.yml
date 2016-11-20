@@ -15,4 +15,4 @@ script:
     - git remote add gh-token "https://${GH_AUTH_TOKEN}@github.com/bameda/python-madrid-learn-doc.git";
     - git fetch gh-token && git fetch gh-token gh-pages:gh-pages;
     - make _link
-    - mkdocs gh-deploy -v --clean --remote-name gh-token;
+    - mkdocs gh-deploy --clean --remote-name gh-token;
