@@ -22,7 +22,7 @@ Sobre python en general e iniciación a python.
 ["Quiero aprender python" de AEP](https://argentinaenpython.com/quiero-aprender-python/") [ES]
 :   Multitud de recursos recolectados por la iniciativa ArgentinaEnPython para comenzar con python.
 
-[PEP8](https://www.python.org/dev/peps/pep-0008/)
+[PEP8](https://www.python.org/dev/peps/pep-0008/) [EN]
 :   Guía de estilo de código python.
 
 [Awesome python](http://awesome-python.com/) [EN]
@@ -57,7 +57,7 @@ Sobre ciencia.
 
 Sobre web scraping.
 
-[iRepositorio del gupo python-madrid/scraping-python](https://github.com/python-madrid/scraping-python)
+[Repositorio del gupo: python-madrid/scraping-python](https://github.com/python-madrid/scraping-python)
 :   Repositorio del grupo de aprendizaje en GitHub.
 
 [Scraping en Python (BeautifulSoup), con ejemplos](http://jarroba.com/scraping-python-beautifulsoup-ejemplos/) [ES]
