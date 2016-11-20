@@ -10,14 +10,20 @@ Sobre python en general e iniciación a python.
 [CodeAcademy Python](https://www.codecademy.com/learn/python) [EN]
 :   Iniciación a python mediante ejercicios interactivos.
 
+[Iniciación a Python de SoloLearn](https://www.sololearn.com/Play/Python) [EN]
+:   Curso interactivo de iniciacion a Python de SoloLearn.com.
+
 [Python 3.x](https://www.youtube.com/playlist?list=PLEtcGQaT56cj70Vl_C1qfUinyMELunL-N) [ES]
-:   Curso de Jesús Conde en castellano sibre python 3.x.
+:   Curso de Jesús Conde en castellano sobre python 3.x.
 
 [CodeCombat](htps://codecombat.com/) [EN]
 :   Juego online para aprender a programar en python y en muchos otros lenguajes.
 
 ["Quiero aprender python" de AEP](https://argentinaenpython.com/quiero-aprender-python/") [ES]
 :   Multitud de recursos recolectados por la iniciativa ArgentinaEnPython para comenzar con python.
+
+[PEP8](https://www.python.org/dev/peps/pep-0008/)
+:   Guía de estilo de código python.
 
 [Awesome python](http://awesome-python.com/) [EN]
 :   Multitud de recursos (bibliotecas, tutoriales,...) en python.
@@ -51,8 +57,11 @@ Sobre ciencia.
 
 Sobre web scraping.
 
-[Tutorial name](url) [EN]
-:   Write a short description.
+[iRepositorio del gupo python-madrid/scraping-python](https://github.com/python-madrid/scraping-python)
+:   Repositorio del grupo de aprendizaje en GitHub.
+
+[Scraping en Python (BeautifulSoup), con ejemplos](http://jarroba.com/scraping-python-beautifulsoup-ejemplos/) [ES]
+:   Artículo de Ricardo Moya sobre scraping con BeautifulSoup.
 
 
 ## Seguridad
