@@ -6,4 +6,9 @@ install:
     - make install
 
 script:
-    - test "$TRAVIS_PULL_REQUEST" == false && test "$TRAVIS_BRANCH" == master && make deploy
+    - git config user.name "${GH_COMMITER_NAME}";
+    - git config user.email "${GH_COMMITER_EMAIL}";
+    - git remote add gh-token "https://${GH_AUTH_TOKEN}@github.com/bameda/python-madrid-learn-doc.git";
+    - git fetch gh-token && git fetch gh-token gh-pages:gh-pages;
+    - make _link
+    - mkdocs gh-deploy -v --clean --remote-name gh-token;
