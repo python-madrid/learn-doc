@@ -12,7 +12,7 @@ install:
 script:
     - git config user.name "${GH_COMMITER_NAME}";
     - git config user.email "${GH_COMMITER_EMAIL}";
-    - git remote add gh-token "https://${GH_AUTH_TOKEN}@github.com/bameda/python-madrid-learn-doc.git";
+    - git remote add gh-token "https://${GH_AUTH_TOKEN}@github.com/python-madrid/learn-doc.git";
     - git fetch gh-token && git fetch gh-token gh-pages:gh-pages;
     - make _link
     - mkdocs gh-deploy --clean --remote-name gh-token;
