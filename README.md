@@ -40,6 +40,9 @@ Sobre python en general e iniciación a python.
 [Learning Python through Katas, TDD and CyberDojo](https://technologyconversations.com/2013/12/29/learning-a-new-programming-language-through-katas-tdd-and-cyberdojo/)
 :   Kata divertida para iniciarse en python practicando y descubrir los que es TDD (Test Driven Development).
 
+[Developing Telegram Bot](https://geekytheory.com/telegram-programando-un-bot-en-python/)
+:   Kata sencilla para hacer un bot de Telegram.
+
 
 ## Analítica
 
