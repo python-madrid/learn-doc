@@ -64,8 +64,8 @@ Cacharreo... cacharreo everywhere.
 
 Sobre ciencia.
 
-[Tutorial name](url) [EN]
-:   Write a short description.
+[Curso Python para científicos e ingenieros](https://www.youtube.com/playlist?list=PLoGFizEtm_6iheDXw2-8onKClyxgstBO1) [ES]
+:   Curso en video por @Juanlu001: conceptos básico, ipython/Jupyter, NumPy, SciPy, SymPy, testing, buenas prácticas...
 
 
 ## Scraping
