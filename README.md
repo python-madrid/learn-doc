@@ -21,8 +21,11 @@ Sobre python en general e iniciación a python.
 [CodeCombat](htps://codecombat.com/) [EN]
 :   Juego online para aprender a programar en python y en muchos otros lenguajes.
 
-["Quiero aprender python" de AEP](https://argentinaenpython.com/quiero-aprender-python/") [ES]
+["Quiero aprender python" de AEP](https://argentinaenpython.com/quiero-aprender-python/) [ES]
 :   Multitud de recursos recolectados por la iniciativa ArgentinaEnPython para comenzar con python.
+
+[Curso "Aprende a Programar: Los Fundamentos"](https://www.coursera.org/learn/learn-to-program) [EN]
+:   Curso de introducción a la programación mediante el lenguage Python de la Universidad de Toronto.
 
 [PEP8](https://www.python.org/dev/peps/pep-0008/) [EN]
 :   Guía de estilo de código python.
