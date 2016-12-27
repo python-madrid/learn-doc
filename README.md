@@ -111,6 +111,9 @@ Sobre desarrollo web.
 [Django 1.10 - Create a URL Shortening Service](https://www.youtube.com/watch?v=KdPf-pNK1s0&list=PLEsfXFp6DpzQSEMN5PXvEWuD2gEWVngCZ) [EN]
 :   Video-curso en el que crearás un servición de URL Shortening con Django 1.10.
 
+[Probar Django 1.10](https://www.youtube.com/playlist?list=PLUAh0xzkWmosSdqTjxg9yHG3Q3J4PQB5X) [ES]
+: Probar Django es un video curso/tutorial en español para principiantes en el que crearás un landing page con Django 1.10.
+
 ### Bibliotecas
 
 #### API
