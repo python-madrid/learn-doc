@@ -112,7 +112,7 @@ Sobre desarrollo web.
 :   Video-curso en el que crearás un servición de URL Shortening con Django 1.10.
 
 [Probar Django 1.10](https://www.youtube.com/playlist?list=PLUAh0xzkWmosSdqTjxg9yHG3Q3J4PQB5X) [ES]
-: Probar Django es un video curso/tutorial en español para principiantes en el que crearás un landing page con Django 1.10.
+:   Probar Django es un video curso/tutorial en español para principiantes en el que crearás un landing page con Django 1.10.
 
 ### Bibliotecas
 
