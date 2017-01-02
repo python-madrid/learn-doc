@@ -114,6 +114,9 @@ Sobre desarrollo web.
 [Probar Django 1.10](https://www.youtube.com/playlist?list=PLUAh0xzkWmosSdqTjxg9yHG3Q3J4PQB5X) [ES]
 : Probar Django es un video curso/tutorial en español para principiantes en el que crearás un landing page con Django 1.10.
 
+[Awesome Django](http://awesome-django.com) [EN]
+: Impresionante lista con varias apps, proyectos y recursos en Django.
+
 ### Bibliotecas
 
 #### API
