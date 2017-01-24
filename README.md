@@ -38,6 +38,8 @@ Sobre python en general e iniciación a python.
 ["Aprenda A Programar Con Pytho" de Zed A. Shaw](https://www.amazon.es/Aprenda-Programar-Python-T%C3%ADtulos-Especiales/dp/8441536511)
 :    Libro (en papel) con el curso intensivo de Zed Shaw con 52 ejercicios. Muy recomendado para iniciarse en python.
 
+[Dive into Python 3](http://www.diveintopython.net/) [ES] [EN]: Libro completo disponible gratuitamente tanto en PDF, HTML, DOC... bastante bueno para aprender Python.
+
 ### Katas y ejercicios
 
 [Learning Python through Katas, TDD and CyberDojo](https://technologyconversations.com/2013/12/29/learning-a-new-programming-language-through-katas-tdd-and-cyberdojo/)
