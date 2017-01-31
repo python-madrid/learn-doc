@@ -33,6 +33,9 @@ Sobre python en general e iniciación a python.
 [Awesome python](http://awesome-python.com/) [EN]
 :   Multitud de recursos (bibliotecas, tutoriales,...) en python.
 
+[The Hitchhiker’s Guide to Python! By Kenneth Reitz](http://docs.python-guide.org/en/latest/) [EN]
+:   Excelente guia con buenas practicas en python.
+
 ### Libros
 
 ["Aprenda A Programar Con Pytho" de Zed A. Shaw](https://www.amazon.es/Aprenda-Programar-Python-T%C3%ADtulos-Especiales/dp/8441536511)
