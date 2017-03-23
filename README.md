@@ -36,6 +36,9 @@ Sobre python en general e iniciación a python.
 [The Hitchhiker’s Guide to Python! By Kenneth Reitz](http://docs.python-guide.org/en/latest/) [EN]
 :   Excelente guia con buenas practicas en python.
 
+[Hour of Python](https://hourofpython.com/una-introduccion-visual-a-python/index.html) [ES]
+: Una introducción visual para aprender a programar en Python utilizando Turtle.
+
 ### Libros
 
 ["Aprenda A Programar Con Pytho" de Zed A. Shaw](https://www.amazon.es/Aprenda-Programar-Python-T%C3%ADtulos-Especiales/dp/8441536511)
