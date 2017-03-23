@@ -37,7 +37,7 @@ Sobre python en general e iniciación a python.
 :   Excelente guia con buenas practicas en python.
 
 [Hour of Python](https://hourofpython.com/una-introduccion-visual-a-python/index.html) [ES]
-: Una introducción visual para aprender a programar en Python utilizando Turtle.
+:   Una introducción visual para aprender a programar en Python utilizando Turtle.
 
 ### Libros
 
