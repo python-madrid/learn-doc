@@ -41,7 +41,7 @@ Sobre python en general e iniciación a python.
 
 ### Libros
 
-["Aprenda A Programar Con Pytho" de Zed A. Shaw](https://www.amazon.es/Aprenda-Programar-Python-T%C3%ADtulos-Especiales/dp/8441536511)
+["Aprenda A Programar Con Python" de Zed A. Shaw](https://www.amazon.es/Aprenda-Programar-Python-T%C3%ADtulos-Especiales/dp/8441536511)
 :    Libro (en papel) con el curso intensivo de Zed Shaw con 52 ejercicios. Muy recomendado para iniciarse en python.
 
 ### Katas y ejercicios
