@@ -39,6 +39,9 @@ Sobre python en general e iniciación a python.
 [Hour of Python](https://hourofpython.com/una-introduccion-visual-a-python/index.html) [ES]
 : Una introducción visual para aprender a programar en Python utilizando Turtle.
 
+[Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html) [EN]
+: Repositorio con varios cheat sheets en Python, muy útil.
+
 ### Libros
 
 ["Aprenda A Programar Con Python" de Zed A. Shaw](https://www.amazon.es/Aprenda-Programar-Python-T%C3%ADtulos-Especiales/dp/8441536511)
