@@ -52,13 +52,13 @@ Sobre python en general e iniciación a python (AKA 'Python 0.0').
 [CodeCombat](htps://codecombat.com/) [EN]
 :   Juego online para aprender a programar en python y en muchos otros lenguajes.
 
-[CheckIO](https://py.checkio.org/)
+[CheckIO](https://py.checkio.org/) [EN]
 :   Aprende python jugando y alimenta tus soluciones a los problemas con las de la comunidad.
 
-[Learning Python through Katas, TDD and CyberDojo](https://technologyconversations.com/2013/12/29/learning-a-new-programming-language-through-katas-tdd-and-cyberdojo/)
+[Learning Python through Katas, TDD and CyberDojo](https://technologyconversations.com/2013/12/29/learning-a-new-programming-language-through-katas-tdd-and-cyberdojo/) [EN]
 :   Kata divertida para iniciarse en python practicando y descubrir los que es TDD (Test Driven Development).
 
-[Developing Telegram Bot](https://geekytheory.com/telegram-programando-un-bot-en-python/)
+[Developing Telegram Bot](https://geekytheory.com/telegram-programando-un-bot-en-python/) [EN]
 :   Kata sencilla para hacer un bot de Telegram.
 
 
