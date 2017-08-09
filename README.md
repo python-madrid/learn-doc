@@ -3,9 +3,9 @@
 Recopilatorio del grupo python-madrid-learn de documentación, manuales y tutoriales.
 
 
-## General
+## Iniciación
 
-Sobre python en general e iniciación a python.
+Sobre python en general e iniciación a python (AKA 'Python 0.0').
 
 ### Documentación
 
@@ -17,9 +17,6 @@ Sobre python en general e iniciación a python.
 
 [Python 3.x](https://www.youtube.com/playlist?list=PLEtcGQaT56cj70Vl_C1qfUinyMELunL-N) [ES]
 :   Curso de Jesús Conde en castellano sobre python 3.x.
-
-[CodeCombat](htps://codecombat.com/) [EN]
-:   Juego online para aprender a programar en python y en muchos otros lenguajes.
 
 ["Quiero aprender python" de AEP](https://argentinaenpython.com/quiero-aprender-python/) [ES]
 :   Multitud de recursos recolectados por la iniciativa ArgentinaEnPython para comenzar con python.
@@ -51,6 +48,12 @@ Sobre python en general e iniciación a python.
 :    Libro completo disponible gratuitamente tanto en PDF, HTML, DOC... bastante bueno para aprender Python.
 
 ### Katas y ejercicios
+
+[CodeCombat](htps://codecombat.com/) [EN]
+:   Juego online para aprender a programar en python y en muchos otros lenguajes.
+
+[CheckIO](https://py.checkio.org/)
+:   Aprende python jugando y alimenta tus soluciones a los problemas con las de la comunidad.
 
 [Learning Python through Katas, TDD and CyberDojo](https://technologyconversations.com/2013/12/29/learning-a-new-programming-language-through-katas-tdd-and-cyberdojo/)
 :   Kata divertida para iniciarse en python practicando y descubrir los que es TDD (Test Driven Development).
