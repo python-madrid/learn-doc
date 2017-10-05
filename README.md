@@ -37,16 +37,18 @@ Sobre python en general e iniciación a python (AKA 'Python 0.0').
 :   Una introducción visual para aprender a programar en Python utilizando Turtle.
 
 [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html) [EN]
-: Repositorio con varios cheat sheets en Python, muy útil.
+:   Repositorio con varios cheat sheets en Python, muy útil.
 
 ### Libros
 
 ["Aprenda A Programar Con Python" de Zed A. Shaw](https://www.amazon.es/Aprenda-Programar-Python-T%C3%ADtulos-Especiales/dp/8441536511)
-:    Libro (en papel) con el curso intensivo de Zed Shaw con 52 ejercicios. Muy recomendado para iniciarse en python.
+:   Libro (en papel) con el curso intensivo de Zed Shaw con 52 ejercicios. Muy recomendado para iniciarse en python.
 
-[Dive into Python](http://www.diveintopython.net/) [ES] [EN]: Libro completo disponible gratuitamente tanto en PDF, HTML, DOC... bastante bueno para aprender Python.
+[Dive into Python](http://www.diveintopython.net/) [ES] [EN]
+:   Libro completo disponible gratuitamente tanto en PDF, HTML, DOC... bastante bueno para aprender Python.
 
-[Dive into Python3](http://www.diveintopython3.net/) [EN]: Como el anterior, pero para Python 3.x.
+[Dive into Python3](http://www.diveintopython3.net/) [EN]
+:   Como el anterior, pero para Python 3.x.
 
 ### Katas y ejercicios
 
@@ -131,7 +133,7 @@ Sobre desarrollo web.
 :   Probar Django es un video curso/tutorial en español para principiantes en el que crearás un landing page con Django 1.10.
 
 [Awesome Django](http://awesome-django.com) [EN]
-: Impresionante lista con varias apps, proyectos y recursos en Django.
+:   Impresionante lista con varias apps, proyectos y recursos en Django.
 
 ### Bibliotecas
 
