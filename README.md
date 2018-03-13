@@ -3,9 +3,9 @@
 Recopilatorio del grupo python-madrid-learn de documentación, manuales y tutoriales.
 
 
-## General
+## Iniciación
 
-Sobre python en general e iniciación a python.
+Sobre python en general e iniciación a python (AKA 'Python 0.0').
 
 ### Documentación
 
@@ -17,9 +17,6 @@ Sobre python en general e iniciación a python.
 
 [Python 3.x](https://www.youtube.com/playlist?list=PLEtcGQaT56cj70Vl_C1qfUinyMELunL-N) [ES]
 :   Curso de Jesús Conde en castellano sobre python 3.x.
-
-[CodeCombat](htps://codecombat.com/) [EN]
-:   Juego online para aprender a programar en python y en muchos otros lenguajes.
 
 ["Quiero aprender python" de AEP](https://argentinaenpython.com/quiero-aprender-python/) [ES]
 :   Multitud de recursos recolectados por la iniciativa ArgentinaEnPython para comenzar con python.
@@ -37,22 +34,34 @@ Sobre python en general e iniciación a python.
 :   Excelente guia con buenas practicas en python.
 
 [Hour of Python](https://hourofpython.com/una-introduccion-visual-a-python/index.html) [ES]
-: Una introducción visual para aprender a programar en Python utilizando Turtle.
+:   Una introducción visual para aprender a programar en Python utilizando Turtle.
 
 [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html) [EN]
-: Repositorio con varios cheat sheets en Python, muy útil.
+:   Repositorio con varios cheat sheets en Python, muy útil.
 
 ### Libros
 
 ["Aprenda A Programar Con Python" de Zed A. Shaw](https://www.amazon.es/Aprenda-Programar-Python-T%C3%ADtulos-Especiales/dp/8441536511)
-:    Libro (en papel) con el curso intensivo de Zed Shaw con 52 ejercicios. Muy recomendado para iniciarse en python.
+:   Libro (en papel) con el curso intensivo de Zed Shaw con 52 ejercicios. Muy recomendado para iniciarse en python.
+
+[Dive into Python](http://www.diveintopython.net/) [ES] [EN]
+:   Libro completo disponible gratuitamente tanto en PDF, HTML, DOC... bastante bueno para aprender Python.
+
+[Dive into Python3](http://www.diveintopython3.net/) [EN]
+:   Como el anterior, pero para Python 3.x.
 
 ### Katas y ejercicios
 
-[Learning Python through Katas, TDD and CyberDojo](https://technologyconversations.com/2013/12/29/learning-a-new-programming-language-through-katas-tdd-and-cyberdojo/)
+[CodeCombat](htps://codecombat.com/) [EN]
+:   Juego online para aprender a programar en python y en muchos otros lenguajes.
+
+[CheckIO](https://py.checkio.org/) [EN]
+:   Aprende python jugando y alimenta tus soluciones a los problemas con las de la comunidad.
+
+[Learning Python through Katas, TDD and CyberDojo](https://technologyconversations.com/2013/12/29/learning-a-new-programming-language-through-katas-tdd-and-cyberdojo/) [EN]
 :   Kata divertida para iniciarse en python practicando y descubrir los que es TDD (Test Driven Development).
 
-[Developing Telegram Bot](https://geekytheory.com/telegram-programando-un-bot-en-python/)
+[Developing Telegram Bot](https://geekytheory.com/telegram-programando-un-bot-en-python/) [EN]
 :   Kata sencilla para hacer un bot de Telegram.
 
 
@@ -121,10 +130,10 @@ Sobre desarrollo web.
 :   Video-curso en el que crearás un servición de URL Shortening con Django 1.10.
 
 [Probar Django 1.10](https://www.youtube.com/playlist?list=PLUAh0xzkWmosSdqTjxg9yHG3Q3J4PQB5X) [ES]
-: Probar Django es un video curso/tutorial en español para principiantes en el que crearás un landing page con Django 1.10.
+:   Probar Django es un video curso/tutorial en español para principiantes en el que crearás un landing page con Django 1.10.
 
 [Awesome Django](http://awesome-django.com) [EN]
-: Impresionante lista con varias apps, proyectos y recursos en Django.
+:   Impresionante lista con varias apps, proyectos y recursos en Django.
 
 ### Bibliotecas
 
