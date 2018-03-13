@@ -50,6 +50,10 @@ Sobre python en general e iniciación a python (AKA 'Python 0.0').
 [Dive into Python3](http://www.diveintopython3.net/) [EN]
 :   Como el anterior, pero para Python 3.x.
 
+[Python® Notes for Professionals book](http://goalkicker.com/PythonBook/) [EN]
+:   E-book gratis creado a partir de la documentación de Stack Overflow, el contenido está escrito por y para la comunidad.
+
+
 ### Katas y ejercicios
 
 [CodeCombat](htps://codecombat.com/) [EN]
@@ -134,6 +138,9 @@ Sobre desarrollo web.
 
 [Awesome Django](http://awesome-django.com) [EN]
 :   Impresionante lista con varias apps, proyectos y recursos en Django.
+
+[Django Admin Cookbook](http://books.agiliq.com/projects/django-admin-cookbook/en/latest/) [EN]
+:   Fantastico libro que nos enseña a tunear y hacer cosas interesantes con el Django admin.
 
 ### Bibliotecas
 
