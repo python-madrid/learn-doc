@@ -19,8 +19,8 @@
             <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
             <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
         <![endif]-->
-	
-	<script src="./js/jquery-1.10.2.min.js"></script>
+
+        <script src="./js/jquery-1.10.2.min.js"></script>
         <script src="./js/bootstrap-3.0.3.min.js"></script>
         <script src="./js/highlight.pack.js"></script> 
     </head>
@@ -52,9 +52,7 @@
                     </a>
                 </li>
                     <li>
-                        <a href="https://github.com/bameda/python-madrid-learn-doc">
-                                <i class="fa fa-github"></i>GitHub
-                        </a>
+                        <a href="https://github.com/bameda/python-madrid-learn-doc/edit/master/docs/index.md"><i class="fa fa-github"></i> Edit on GitHub</a>
                     </li>
             </ul>
         </div>
@@ -111,10 +109,12 @@
 <dd>Libro completo disponible gratuitamente tanto en PDF, HTML, DOC... bastante bueno para aprender Python.</dd>
 <dt><a href="http://www.diveintopython3.net/">Dive into Python3</a> [EN]</dt>
 <dd>Como el anterior, pero para Python 3.x.</dd>
+<dt><a href="http://goalkicker.com/PythonBook/">Python® Notes for Professionals book</a> [EN]</dt>
+<dd>E-book gratis creado a partir de la documentación de Stack Overflow, el contenido está escrito por y para la comunidad.</dd>
 </dl>
 <h3 id="katas-y-ejercicios">Katas y ejercicios</h3>
 <dl>
-<dt><a href="htps://codecombat.com/">CodeCombat</a> [EN]</dt>
+<dt><a href="https://codecombat.com/">CodeCombat</a> [EN]</dt>
 <dd>Juego online para aprender a programar en python y en muchos otros lenguajes.</dd>
 <dt><a href="https://py.checkio.org/">CheckIO</a> [EN]</dt>
 <dd>Aprende python jugando y alimenta tus soluciones a los problemas con las de la comunidad.</dd>
@@ -173,6 +173,8 @@
 <dd>Probar Django es un video curso/tutorial en español para principiantes en el que crearás un landing page con Django 1.10.</dd>
 <dt><a href="http://awesome-django.com">Awesome Django</a> [EN]</dt>
 <dd>Impresionante lista con varias apps, proyectos y recursos en Django.</dd>
+<dt><a href="http://books.agiliq.com/projects/django-admin-cookbook/en/latest/">Django Admin Cookbook</a> [EN]</dt>
+<dd>Fantastico libro que nos enseña a tunear y hacer cosas interesantes con el Django admin.</dd>
 </dl>
 <h3 id="bibliotecas">Bibliotecas</h3>
 <h4 id="api">API</h4>
@@ -200,8 +202,11 @@
             <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
         <script>var base_url = '.';</script>
-        <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script>
-        <script src="./js/base.js"></script><div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+        <script src="./js/base.js"></script>
+        <script src="./search/require.js"></script>
+        <script src="./search/search.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -224,12 +229,52 @@
             </div>
         </div>
     </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td><kbd>&larr;</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td><kbd>&rarr;</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
 </div>
+
 
     </body>
 </html>
 
 <!--
-MkDocs version : 0.16.3
-Build Date UTC : 2017-10-05 06:48:55
+MkDocs version : 0.17.3
+Build Date UTC : 2018-03-13 19:40:43
 -->
