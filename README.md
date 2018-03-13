@@ -56,7 +56,7 @@ Sobre python en general e iniciación a python (AKA 'Python 0.0').
 
 ### Katas y ejercicios
 
-[CodeCombat](htps://codecombat.com/) [EN]
+[CodeCombat](https://codecombat.com/) [EN]
 :   Juego online para aprender a programar en python y en muchos otros lenguajes.
 
 [CheckIO](https://py.checkio.org/) [EN]
